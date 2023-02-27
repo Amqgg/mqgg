@@ -1,0 +1,100 @@
+.scenery{
+	width: 100%;
+	height: 800px;
+	position: relative;
+	text-align: center;
+}
+.scenery h5{
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	margin: 0;
+	padding: 0;
+	color: red;
+	font-size: 20px;
+}
+.scenery span{
+	width: 100%;
+	line-height: 30px;
+	height: 30px;
+}
+.scenery ul{
+	width: 70%;
+	height: 670px;
+	margin: 0 auto;
+	position: relative;
+	list-style: none;
+	padding: 0;
+}
+.scenery ul li{
+	width: 31%;
+	height: 200px;
+	float: left;
+	margin: 20px 1% 0 1%;
+}
+.scenery ul li img{
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+.scenery p{
+	width: 60%;
+	height: 50px;
+	line-height: 25px;
+	font-size: 18px;
+	margin: 0 auto;
+}
+
+
+.header{
+	width: 100%;
+	height: 40px;
+	background: #fff;
+	color: #000;
+
+}
+.header ul{
+	width: 100%;
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	
+}
+.header li{
+	width: 16%;
+	line-height: 40px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	list-style: none;
+}
+a{
+	color: #000;
+	font-size: 18px;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+.footer{
+	width: 100%;
+	height: 30px;
+	background: lightblue;
+	color: #000;
+	text-align: center;
+}
+.footer p{
+	width: 100%;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	position: absolute
+}
+.footer  a{
+	width: 100px;
+	height: 20px;
+	line-height: 20px;
+	display: inline-block;
+	border-right: 1px solid grey;
+	vertical-align: middle;
+}

@@ -1,0 +1,97 @@
+.history{
+	width: 100%;
+	height:800px;
+	position: relative;
+}
+.history p{
+	width: 96%;
+	height: 60px;
+	line-height: 30px;
+	margin: 0px 2% 0px 2%;
+	font-size: 18px;
+	text-indent: 30px;
+}
+.origin,.luoyang{
+	width: 96%;
+	height: 300px;
+	margin-top: 20px;
+	padding: 0 2% 0 2%;
+	list-style: none;
+	text-align: center;
+}
+.origin li{
+	width: 22%;
+	height: 300px;
+	float: left;
+	padding-left: 2.5%;
+	position: relative;
+}
+.history img{
+	width: 100%;
+	height:270px;
+	position: relative;
+}
+.origin span{
+	width: 100%;
+	height: 30px;	
+}
+.luoyang li{
+	width: 50%;
+	height: 300px;
+	float: left;
+	position: relative;
+}
+
+
+.header{
+	width: 100%;
+	height: 40px;
+	background: #fff;
+	color: #000;
+
+}
+.header ul{
+	width: 100%;
+	height: 40px;
+	margin: 0;
+	padding: 0;
+	
+}
+.header li{
+	width: 16%;
+	line-height: 40px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	list-style: none;
+}
+a{
+	color: #000;
+	font-size: 18px;
+	text-decoration: none;
+}
+a:hover{
+	color: red;
+}
+.footer{
+	width: 100%;
+	height: 30px;
+	background: lightblue;
+	color: #000;
+	text-align: center;
+}
+.footer p{
+	width: 100%;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	position: absolute
+}
+.footer  a{
+	width: 100px;
+	height: 20px;
+	line-height: 20px;
+	display: inline-block;
+	border-right: 1px solid grey;
+	vertical-align: middle;
+}
